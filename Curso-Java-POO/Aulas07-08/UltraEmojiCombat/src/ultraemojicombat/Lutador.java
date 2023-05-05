@@ -134,9 +134,4 @@ public class Lutador {
     public void setEmpates(int empates) {
         this.empates = empates;
     }
-    
-    
-    
-      
-
 }
