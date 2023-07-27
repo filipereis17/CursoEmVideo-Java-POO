@@ -1,6 +1,6 @@
 # Curso de Java POO - Curso em Vídeo
 
-![Java POO](https://www.cursoemvideo.com/curso/java-poo/)
+![Java POO](https://www.cursoemvideo.com/wp-content/uploads/bb-plugin/cache/poo-java-circle-9342dd242d4e1f7c60844dd4680ed065-5d48cb37edbef.jpg)
 
 Bem-vindo ao Curso de Java POO da plataforma Curso em Vídeo! Neste curso, você aprenderá os conceitos de Programação Orientada a Objetos (POO) em Java e como aplicá-los para criar programas mais organizados, reutilizáveis e eficientes.
 
@@ -70,7 +70,7 @@ Contribuições para aprimorar este curso são bem-vindas! Caso encontre algum p
 
 ## Contato
 
-Para mais informações sobre o Curso de Java POO da plataforma Curso em Vídeo, visite [o site oficial](https://www.cursoemvideo.com/course/java-poo/).
+Para mais informações sobre o Curso de Java POO da plataforma Curso em Vídeo, visite [o site oficial](https://www.cursoemvideo.com/curso/java-poo/) ou a playlist no [YouTube](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY).
 
 Espero que você tenha tido uma ótima experiência de aprendizado com este curso!
 
